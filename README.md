@@ -1,6 +1,3 @@
-echo "# Python for Data Science" > README.md
-
-
 # 📊 Python for Data Science
 Welcome to my repository! This project tracks my journey learning Data Science using Python.
 
